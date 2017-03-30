@@ -9,7 +9,7 @@ section {
 main {
     position: relative;
     float: left;
-    top: 50%;
+    top: 66%;
     left: 50%;
     transform: translate(-50%, 20%);
 }
